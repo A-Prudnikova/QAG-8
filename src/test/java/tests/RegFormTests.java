@@ -58,7 +58,7 @@ public class RegFormTests extends TestBase {
                     text(phone),
                     text("03 January,1910"),
                     text(subject),
-                    text("Sports, Reading, Music"),
+                    text("Sports, Re1ading, Music"),
                     text("ava.jpg"),
                     text(address),
                     text(state),
